@@ -1,0 +1,61 @@
+Name
+ACCOUNT_CHOOSER
+Content
+AFx_qI4s9mfZNWM6XqGQitypXrvTTWHIWGp1xBP7oi05lnQWCnBz1g5GeMfKySaEj7yCUrGbpe9PYN_JCC7yZYv4mx5uSr4-yVXWroRlXE0RsFh1R1_PoVug7c0yfZlmHAB1u2KL8huf
+Domain
+accounts.google.com
+Path
+/
+Send for
+Secure connections only
+Accessible to script
+No (HttpOnly)
+Created
+Thursday, November 29, 2018 at 11:20:20 AM
+Expires
+Saturday, November 28, 2020 at 11:20:20 AM
+GAPS
+Name
+
+
+GAPS
+Content
+1:UqaG1kQUzVEinagFORNphalzSOXP-hyzjHh27mdfrM0zGVifCcomjporiaz_HooKLqjY46A4_JK1bq1r_uHRcjjiiZ0Rqg:96AH3DQv5ymCG9Az
+Domain
+accounts.google.com
+Path
+/
+Send for
+Secure connections only
+Accessible to script
+No (HttpOnly)
+Created
+Thursday, November 29, 2018 at 11:20:50 AM
+Expires
+Saturday, November 28, 2020 at 11:20:50 AM
+
+
+LSID
+Name
+LSID
+Content
+doritos|o.mail.google.com|o.notifications.google.com|s.IN|s.youtube|ss:xQZJvRsyMmQ_ybpcoirRc34r8gosZKKon5lhAqEN5C_WpJ4B_nM4EKGsW-HeCUE5VdGLWg.
+Domain
+accounts.google.com
+Path
+/
+Send for
+Secure connections only
+Accessible to script
+No (HttpOnly)
+Created
+Thursday, November 29, 2018 at 11:20:50 AM
+Expires
+Saturday, November 28, 2020 at 11:20:50 AM
+
+Origin
+https://accounts.google.com/
+Size on disk
+203 B
+Last modified
+Thursday, November 29, 2018 at 11:19:30 AM
